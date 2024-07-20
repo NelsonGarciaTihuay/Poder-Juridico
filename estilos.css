@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+    background-color: #54678C;
+    padding: 20px;
+}
+.klk{
+    width:300px ;
+    align-self: center;
+    height: ;
+}
+body{
+    font-family: 'Open Sans';
+    background-color: #ffffff;
+}
+header{
+    background-color: #151826;
+    text-align: center;
+    padding: 25px;
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    color: #ffffff;
+    margin: 0 30px;
+    padding: 5px 15px;
+    border-radius: 30px;
+    border: 3px solid #54678C;
+}
+nav a:hover{
+    background-color: #54678C;
+    color: #fff;
+}
+.encabezado-img{
+    background-image: url("ewa.jpg");
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'inherit' ;
+    background-color: black;
+}
+h2{
+    font-family: 'inherit';
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+    color: rgb(0, 0, 0);
+}
+h3{
+    font-family: 'inherit';
+    text-align: center;
+    padding: 10px;
+}
+.text-si{
+    font-family: Arial, sans-serif;
+    display: table;
+    justify-content: left; 
+    content: 'iie.jpg'; 
+}
+.sub{
+    text-align: center;
+    padding: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.ep{
+    display: flex;
+    padding: 15px 15px;
+}
+.ttv{
+    align-self: center;
+    text-align: left;
+    color: black;
+}
+.ppp{
+    margin-right: 20px 20px;
+
+    width: 350px;
+    height: 200px;
+
+}
+.tr{
+    margin-right: 20px 20px;
+    padding: 15px;
+    width: 350px;
+    height: 200px;  
+}
+
+
+
